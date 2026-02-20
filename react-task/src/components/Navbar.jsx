@@ -17,6 +17,12 @@ function Navbar() {
       <NavLink to="/counter" className="nav-link">
         Counter
       </NavLink>
+      <NavLink to="/todo" className="nav-link">
+        Todo List
+      </NavLink>
+       <NavLink to="/calender" className="nav-link">
+        Calendar
+      </NavLink>
     </nav>
     </>
   );
